@@ -1,4 +1,8 @@
 ![readmeProfileBanner](https://github.com/user-attachments/assets/207d2910-ee64-42b6-a9e6-70fa6803c7d8)
+![Obszar roboczy 1AS](https://github.com/user-attachments/assets/477e3d3b-2553-4829-9738-d726fdab6cc8)
+
+
+
 <h2 align="center">Hi there! 👋</h2>
 
 I'm a passionate beginner in front-end development. My focus is on building accessible websites that are user-friendly for everyone, regardless of ability. While I’m just getting started, I’m eager to learn and constantly improve my skills.
