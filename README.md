@@ -1,7 +1,4 @@
 ![readmeProfileBanner](https://github.com/user-attachments/assets/207d2910-ee64-42b6-a9e6-70fa6803c7d8)
-![Obszar roboczy 1AS](https://github.com/user-attachments/assets/477e3d3b-2553-4829-9738-d726fdab6cc8)
-
-
 
 <h2 align="center">Hi there! 👋</h2>
 
@@ -107,6 +104,7 @@ Here are a few beginner projects I've worked on and I'm proud of:
 + Graduated in project management master studies
 + Cosplayer and a huge fan of Harry Potter, LOTR and Umbrella Academy
 + Active scuba diver and pet lover
++ The gap? Long vacation. :)
 
 <br>
 <h2 align="center">💬 Let's Connect!</h2>
